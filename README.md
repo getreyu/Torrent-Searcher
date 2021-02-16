@@ -11,3 +11,5 @@ if any of this stops working, try another one
 
 # Credit
 [Main developer](https://github.com/BaraniARR)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
