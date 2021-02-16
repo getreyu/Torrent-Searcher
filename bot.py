@@ -20,7 +20,7 @@ logging.basicConfig(
 
 logger = logging.getLogger(__name__)
 
-TOKEN = "Your Bot Token"
+TOKEN = "1661398623:AAF76yfHYEeV1JLM_YQEqi-gJ6NZA87JMZw"
 
 #CommandHandler for message "Start"
 def start(update: Update, context: CallbackContext) -> None:
